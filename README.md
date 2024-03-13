@@ -22,20 +22,20 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=marcusGoncalvess.marcusGoncalvess&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jeandealmeida-dev&"  />
 </div>
 
 ###
 
-<h1 align="center">Heey there 👋🏽</h1>
+<h1 align="center">What's up guys</h1>
 
 ###
 
-<h3 align="left">👩‍💻  Full-Stack Developer</h3>
+<h3 align="left">👩‍💻  Mobile Developer</h3>
 
 ###
 
-<p align="left">I'm Marcus Gonçalves from Porto Alegre, RS, Brazil<br><br>-  💼 I’m working with TypeScript (Node, React)<br>- 📚 I'm currently in advanced NodeJS training and learning devops concepts<br>-  🐱‍💻 I have a great interest in the area of information security<br>-  🎓 Graduating software engineer<br>-  🚀 Creating technology content for social networks<br>- ⚡ In my free time I like to play volleyball, play online and skate</p>
+<p align="left">I'm Jean Paulo de Almeida from Joinville, SC, Brazil<br><br>-  <!--💼 I’m working with TypeScript (Node, React)<br>- 📚 I'm currently in advanced NodeJS training and learning devops concepts<br>-  🐱‍💻 I have a great interest in the area of information security<br>-  🎓 Computer Science Graduated <br>-  🚀 Creating technology content for social networks -->
 
 ###
 
@@ -72,8 +72,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcusGoncalvess&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcusGoncalvess&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeandealmeida-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeandealmeida-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
