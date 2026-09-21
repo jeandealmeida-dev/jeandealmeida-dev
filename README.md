@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Jean Paulo de Almeida, from Joinville, SC, Brazil 🇧🇷<br><br>- 📱 13+ years building for Android — from startups to Thoughtworks, XP Inc and Magazine Luiza<br>- 🧭 Currently leading the Android re-platforming of Breathwrk (Peloton) at Thoughtworks<br>- 🛠 Deep expertise in Kotlin, Jetpack Compose, Coroutines, Flutter and Kotlin Multiplatform (KMM)<br>- 🏗 Focused on Clean Architecture, observability (Datadog/Firebase) and mentoring junior devs<br>- 🌎 4-year sabbatical backpacking South America before going international with tech<br>- 🎓 Computer Science graduate (UDESC)</p>
+<p align="left">I'm Jean Paulo de Almeida, from Joinville, SC, Brazil 🇧🇷<br><br>- 📱 13+ years building for Android — from startups to Thoughtworks, XP Inc and Magazine Luiza<br>- 🧭 Currently leading the Android re-platforming of Breathwrk (Peloton) at Thoughtworks<br>- 🛠 Deep expertise in Kotlin, Jetpack Compose, Coroutines, Flutter and Kotlin Multiplatform (KMM)<br>- 🏗 Focused on Clean Architecture, observability (Datadog/Firebase) and mentoring junior devs<br>- 🎓 Computer Science graduate (UDESC)</p>
 
 ###
 
