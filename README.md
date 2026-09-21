@@ -32,13 +32,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeandealmeida-dev&hide_e&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&th
-eme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img
-src="https://github-readme-stats.vercel.app/api/top-langs?username=jeandealmeida-dev&loayout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"
-height="200" alt="languages graph"  />
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=jeandealmeida-dev)](https://github.com/stats-organization/github-stats-extended)
+
 </div>
+
 
 ###
 
